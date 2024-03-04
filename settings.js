@@ -16,8 +16,8 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "254798999762",
-  SUDO_NUMBERS : "254798999762",
+  OWNER_NUMBER: "254792936892",
+  SUDO_NUMBERS : "254792936892",
   OWNER_NAME: "『 𝙼𝚁 PEYWA 』",
   BOT_NAME : "CODE IT BOT",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : true,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ CODE_IT ʙᴏᴛ',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : true,
