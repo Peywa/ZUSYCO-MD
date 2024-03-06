@@ -36,7 +36,7 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ CODE_IT ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  STICKER_PACK : '[ PEYWA ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
